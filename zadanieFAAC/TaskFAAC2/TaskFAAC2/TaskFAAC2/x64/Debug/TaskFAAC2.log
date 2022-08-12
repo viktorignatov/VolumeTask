@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ZadachaFAAC.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TaskFAAC2.cpp
+  TaskFAAC2.vcxproj -> D:\ProgrammingProblems\zadanieFAAC\TaskFAAC2\TaskFAAC2\x64\Debug\TaskFAAC2.exe
